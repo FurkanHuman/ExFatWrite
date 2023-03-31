@@ -1,0 +1,9 @@
+{
+    "sketch": "ExFatWrite.ino",
+    "board": "arduino:avr:nano",
+    "output": "Build",
+    "intelliSenseGen": "enable",
+    "port": "COM9",
+    "configuration": "cpu=atmega328",
+    "programmer": "avrispmkii"
+}

@@ -1,0 +1,287 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\furka\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\furka\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\source\\repos\\Arduino\\ExFatWrite\\Build\\sketch\\ExFatWrite.ino.cpp",
+    "Include": "LiquidCrystal_I2C.h",
+    "Includepath": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\Arduino-LiquidCrystal-I2C-library-master"
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\source\\repos\\Arduino\\ExFatWrite\\Build\\sketch\\ExFatWrite.ino.cpp",
+    "Include": "SdFat.h",
+    "Includepath": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\source\\repos\\Arduino\\ExFatWrite\\Build\\sketch\\ExFatWrite.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\furka\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\source\\repos\\Arduino\\ExFatWrite\\Build\\sketch\\ExFatWrite.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "C:\\Users\\furka\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\EEPROM\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\source\\repos\\Arduino\\ExFatWrite\\Build\\sketch\\ExFatWrite.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\furka\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\source\\repos\\Arduino\\ExFatWrite\\Build\\sketch\\ExFatWrite.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\Arduino-LiquidCrystal-I2C-library-master\\LiquidCrystal_I2C.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\ExFatLib\\ExFatDbg.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\ExFatLib\\ExFatFile.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\ExFatLib\\ExFatFilePrint.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\ExFatLib\\ExFatFileWrite.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\ExFatLib\\ExFatFormatter.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\ExFatLib\\ExFatName.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\ExFatLib\\ExFatPartition.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\ExFatLib\\ExFatVolume.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\FatLib\\FatDbg.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\FatLib\\FatFile.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\FatLib\\FatFileLFN.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\FatLib\\FatFilePrint.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\FatLib\\FatFileSFN.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\FatLib\\FatFormatter.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\FatLib\\FatName.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\FatLib\\FatPartition.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\FatLib\\FatVolume.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\FreeStack.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\FsLib\\FsFile.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\FsLib\\FsNew.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\FsLib\\FsVolume.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\MinimumSerial.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\SdCard\\SdCardInfo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\SdCard\\SdSpiCard.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\SdCard\\SdioTeensy.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\SpiDriver\\SdSpiArtemis.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\SpiDriver\\SdSpiChipSelect.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\SpiDriver\\SdSpiDue.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\SpiDriver\\SdSpiESP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\SpiDriver\\SdSpiParticle.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\SpiDriver\\SdSpiSTM32.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\SpiDriver\\SdSpiSTM32Core.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\SpiDriver\\SdSpiTeensy3.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\common\\FmtNumber.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\common\\FsCache.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\common\\FsDateTime.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\common\\FsName.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\common\\FsStructs.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\common\\FsUtf.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\common\\PrintBasic.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\common\\upcase.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\iostream\\StdioStream.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\iostream\\StreamBaseClass.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\iostream\\istream.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\Documents\\Arduino\\libraries\\SdFat-2.2.0\\src\\iostream\\ostream.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\furka\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  }
+]
